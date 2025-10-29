@@ -37,7 +37,8 @@ Participants can join by paying a small entry fee, and the contract randomly pic
 ---
 
 ## 🌍 Deployed Smart Contract
-![Uploading Screenshot (43).png…]()
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/ff876f7e-ede3-4022-8e51-3095b276bb5d" />
+
 
 - **Network:** Celo Sepolia Testnet  
 - **Contract Address:** [`0x80D15090Ca493C3016c2FEe47645F73B5EA66bF0`](https://celo-sepolia.blockscout.com/address/0x80D15090Ca493C3016c2FEe47645F73B5EA66bF0)
